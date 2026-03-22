@@ -1,4 +1,3 @@
-# aws-ec2-ssh
 # AWS EC2 Hands-On
 
 ## 📌 Overview
