@@ -37,19 +37,19 @@ ssh -i ec2Demo.pem ec2-user@<my-public-ip>
 
 ### EC2 Dashboard
 
-![EC2 Dashboard](screenshot(85).png)
+![EC2 Dashboard](Screenshot(85).png)
 
 ### Security Group (Port 22 Open)
 
-![Security Group](screenshots/security-group.png)
+![Security Group](Screenshot(86).png)
 
 ### EC2 Instance Connect
 
-![EC2 Instance Connect](screenshots/ec2-instance-connect.png)
+![EC2 Instance Connect](Screenshot(87).png)
 
 ### SSH via Bash
 
-![SSH Connection](screenshots/ssh-bash.png)
+![SSH Connection](Screenshot(88).png)
 
 ---
 
