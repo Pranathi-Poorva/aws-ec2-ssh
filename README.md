@@ -37,7 +37,7 @@ ssh -i ec2Demo.pem ec2-user@<my-public-ip>
 
 ### EC2 Dashboard
 
-![EC2 Dashboard](screenshots/ec2-dashboard.png)
+![EC2 Dashboard](screenshot(85).png)
 
 ### Security Group (Port 22 Open)
 
